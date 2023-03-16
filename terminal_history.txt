@@ -1,0 +1,41 @@
+    1  git clone git@rice.bootcampcontent.com:Rice-Coding-Bootcamp/RICE-VIRT-FIN-PT-02-2023-U-B.git
+    2  cd .ssh
+    3  ls
+    4  ssh-keygen -t ed25519 -C "olisanwora@gmail.com"
+    5  cat ~/.ssh/id_ed25519.pub | clip
+    6  cd ..
+    7  git clone git@rice.bootcampcontent.com:Rice-Coding-Bootcamp/RICE-VIRT-FIN-PT-02-2023-U-B.git
+    8  cd RICE-VIRT-FIN-PT-02-2023-U-B/
+    9  code . 
+   10  conda
+   11  cd RICE-VIRT-FIN-PT-02-2023-U-B/
+   12  code .
+   13  conda init
+   14  conda init bash
+   15  ef62204c46da75694f370f0ffebb927c62bed119
+   16  pwd
+   17  ls
+   18  cd
+   19  cd desktop
+   20  pwd
+   21  ls
+   22  mkdir fintech-workspace/
+   23  cd ..
+   24  cd ~
+   25  cd desktop
+   26  cd Fintech-Workspace
+   27  cd Python_Project/
+   28  ls
+   29  conda activated dev
+   30  conda activate dev
+   31  python --version
+   32  python hello_python.py
+   33  conda deactivate
+   34  C:/Users/olisa/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/olisa/Downloads/Starter_Code (2)/Starter_Code/loan_qualifier_app/app.py"
+   35  pip install fire
+   36  pip install questionary
+   37  C:/Users/olisa/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/olisa/Downloads/Starter_Code (2)/Starter_Code/loan_qualifier_app/app.py"
+   38  C:/Users/olisa/anaconda3/envs/dev/python.exe "c:/Users/olisa/Downloads/Starter_Code (2)/Starter_Code/loan_qualifier_app/app.py"
+   39  Starter_Code\loan_qualifier_app\data\daily_rate_sheet.csvC:/Users/olisa/anaconda3/envs/dev/python.exe "c:/Users/olisa/Downloads/Starter_Code (2)/Starter_Code/loan_qualifier_app/app.py"
+   40  C:/Users/olisa/anaconda3/envs/dev/python.exe "c:/Users/olisa/Downloads/Starter_Code (2)/Starter_Code/loan_qualifier_app/app.py"
+   41  history 50 > terminal_history.txt
